@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">True Citizen</string>
+    <string name="true_button_text">TRUE</string>
+    <string name="false_button_text">FALSE</string>
+    <string name="prev_button_text">Prev</string>
+    <string name="next_button_text">NEXT</string>
+    <string name="placeholder">Questions goes here</string>
+    <string name="image_description">Android icon image</string>
+
+    <string name="question_declaration">The india gets  Independence in 1947.</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_constitution">Mahatma ghandhi is the great prime minister of india.</string>
+    <string name="question_amendments">29 states are present in india.</string>
+    <string name="question_independence_rights">india celebrate the republic day on
+        \n \t<b>1950</b> \n \t <b>for creating rules and regulations</b></string>
+    <string name="question_religion">Freedom of religion means: \n \t<b>You can practice any religion,
+        or not practice a religion</b></string>
+    <string name="question_government">BJP is the first government of india.</string>
+    <string name="question_government_feds">later india name is called as bharat mahan</string>
+    <string name="question_government_senators">vande matram is written by lata mangeshkar.</string>
+</resources>
